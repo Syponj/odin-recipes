@@ -1,1 +1,2 @@
+On this project the target is to put in practice the basics of html learned: html boilerplate, adding images to a page, using links to connect different html pages,the use of ordered listsk and unorder and commiting a project to github.
 # odin-recipes
